@@ -1,2 +1,2 @@
 # belajar-javascript2
-Aku ingin belajar dan menguasai javascript
+Saya ingin belajar dan menguasai javascript
